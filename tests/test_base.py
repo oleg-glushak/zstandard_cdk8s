@@ -1,6 +1,6 @@
 import pytest
 
-from project_name import BaseClass, base_function
+from zstandard_cdk8s import BaseClass, base_function
 
 given = pytest.mark.parametrize
 
